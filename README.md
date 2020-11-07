@@ -1,5 +1,7 @@
 # HotelBookingDemand
 
+## Project Description:
+
 - Used Hotel Booking dataset to analyse different parameters which affect the decision making of the customer for booking a room in the hotel
 - Performed Data Cleaning for performing the EDA.
 - Used EDA and Advanced EDA (Pandas Profiling, Autoviz, Pandas Describe) to graphically represent the data and answer important questions which would help hotels customize their logistics to increase the bookings.
