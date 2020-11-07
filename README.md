@@ -5,7 +5,7 @@
 - Used Hotel Booking dataset to analyse different parameters which affect the decision making of the customer for booking a room in the hotel
 - Performed Data Cleaning for performing the EDA.
 - Used EDA and Advanced EDA (Pandas Profiling, Autoviz, Pandas Describe) to graphically represent the data and answer important questions which would help hotels customize their logistics to increase the bookings.
-- Discovered important relation between Cancellation rate and Deposits, it was surprising that the cancellation rate in few segments was high despite the application of a deposit.
+- Discovered important relation between Booking Cancellation rate and Advanced Booking Deposits, it was surprising that the cancellation rate in few segments was high despite the application of a deposit.
 - Created Correlation matrix using Pearson and Spearman Method and also found highly correlated parameters which gave useful insights into the data
 - Found the most important features which contributed to the decision making of the customer.
 - *Feature Engineering*: Created Pipeline for full data preprocessing of continuous and categorical data and used OneHotEncoder to encode the data.
