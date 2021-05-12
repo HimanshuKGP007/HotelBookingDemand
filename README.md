@@ -10,4 +10,4 @@
 - Found the most important features which contributed to the decision making of the customer.
 - *Feature Engineering*: Created Pipeline for full data preprocessing of continuous and categorical data and used OneHotEncoder to encode the data.
 - Used 4 ML models for prediction - Linear Regression, Random Forest classifier, Logistic Regression and XGBoost, did Hyperparameter tuning of the most accurate model(Random Forest Classifier) to further increase accuracy.
-- Got Feature importance of several parameters in the Data using eli5 library.
+- Got Feature importance of several parameters in the Data using eli5 library
