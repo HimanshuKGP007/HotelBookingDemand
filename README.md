@@ -1,5 +1,7 @@
 # HotelBookingDemand
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HimanshuKGP007/HotelBookingDemand/HEAD)
+
 ## Project Description:
 
 - Used Hotel Booking dataset to analyse different parameters which affect the decision making of the customer for booking a room in the hotel
